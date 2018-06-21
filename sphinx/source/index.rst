@@ -1,5 +1,5 @@
 
-Welcome to the Environmental Scientist's Introduction to Python Course
+Welcome to the Using Tabular data in Python Course
 ==========================================================================
 
 This course is aimed at people who have completed
@@ -65,5 +65,41 @@ These exercises are facillitated through Github Classroom, so we recommend that 
 +-------------+-------------------------------------------------------+
 | exercise    | prerequisites / associated lessons                    |
 +=============+=======================================================+
-|   to come   | to come                                               |
+|             | .. toctree::                                          |
+|             |     :maxdepth: 1                                      |
+| exercise 1  |                                                       |
+|             |     intro_pd_np.rst                                   |
+|             |                                                       |
 +-------------+-------------------------------------------------------+
+|             | .. toctree::                                          |
+|             |     :maxdepth: 1                                      |
+| exercise 2  |                                                       |
+|             |     io_pd.rst                                         |
+|             |                                                       |
++-------------+-------------------------------------------------------+
+|             | .. toctree::                                          |
+|             |     :maxdepth: 1                                      |
+| exercise 3  |                                                       |
+|             |     td_manip.rst                                      |
+|             |                                                       |
++-------------+-------------------------------------------------------+
+|             | .. toctree::                                          |
+|             |     :maxdepth: 1                                      |
+| exercise 4  |                                                       |
+|             |     sum_data.rst                                      |
+|             |                                                       |
++-------------+-------------------------------------------------------+
+|             | .. toctree::                                          |
+|             |     :maxdepth: 1                                      |
+| exercise 5  |                                                       |
+|             |     ts_analysis.rst                                   |
+|             |                                                       |
++-------------+-------------------------------------------------------+
+|             | .. toctree::                                          |
+|             |     :maxdepth: 1                                      |
+| exercise 6  |                                                       |
+|             |     multi_idx.rst                                     |
+|             |                                                       |
++-------------+-------------------------------------------------------+
+
+#todo maybe a string exercise?
