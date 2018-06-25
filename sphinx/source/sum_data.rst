@@ -26,7 +26,7 @@ show .min() style functionality # including arguments
 # just a drop in the bucket, more methods here: https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html
 # and here https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
 
-Using groupby to aggregate data
+Using Groupby to Aggregate Data
 ---------------------------------
 
 # groupby object

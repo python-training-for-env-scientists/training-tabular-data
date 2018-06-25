@@ -42,9 +42,9 @@ which is a pandas dependency if you are using the plotting functionality.
 2. Create a virtual environment for this course (tdip) for Tabular Data In Python
     1. open anaconda prompt and enter:
 
-.. code-block:: bash
+    .. code-block:: bash
 
-    conda create -n tdip python=3.6 spyder numpy pandas matplotlib
+        conda create -n tdip python=3.6 spyder numpy pandas matplotlib
 
 2. When conda asks you to proceed, type ``y``:
 
@@ -101,5 +101,3 @@ These exercises are facillitated through Github Classroom, so we recommend that 
 |             |     multi_idx.rst                                     |
 |             |                                                       |
 +-------------+-------------------------------------------------------+
-
-#todo maybe a string exercise?

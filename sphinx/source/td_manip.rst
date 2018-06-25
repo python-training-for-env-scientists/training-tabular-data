@@ -1,9 +1,21 @@
-#todo title
+Working with Tabular Data
+===========================
+
+Using a Dataframe Like an Excel Sheet
+---------------------------------
 
 # excel sheet like math e.g. new columns ect
-# transpose
+# math
+# using boolean indexing to do math
+
+Merging Manipulating and Mapping data
+-------------------------
+
 # merging data
-# replace method
 # concatenation of dataframes
-# melt method
+
+# transpose
+
+# replace method
+
 
