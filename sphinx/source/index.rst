@@ -59,45 +59,34 @@ Practice Exercises
 ------------------------
 
 We have developed a set of practice exercises to give you a taste of doing your own scripting.
-These exercises are facillitated through Github Classroom, so we recommend that you wait until you have finished
-:doc:`the lesson on version control <version_control>` before you begin to explore the exercises. If you want to get on to the exercises, `this link <https://classroom.github.com/a/CgnR3BXt>`_ will create a new repository with a copy of the exercises for you to begin working.
+These exercises are facillitated through Github Classroom.  If you want to get on to the
+exercises, `this link <https://classroom.github.com/a/CgnR3BXt>`_ will create a new repository with a copy of the
+exercises for you to begin working.
 
 +-------------+-------------------------------------------------------+
 | exercise    | prerequisites / associated lessons                    |
 +=============+=======================================================+
-|             | .. toctree::                                          |
-|             |     :maxdepth: 1                                      |
 | exercise 1  |                                                       |
-|             |     intro_pd_np.rst                                   |
+|             |     - :doc:`intro_pd_np`                              |
 |             |                                                       |
 +-------------+-------------------------------------------------------+
-|             | .. toctree::                                          |
-|             |     :maxdepth: 1                                      |
 | exercise 2  |                                                       |
-|             |     io_pd.rst                                         |
+|             |     - :doc:`io_pd`                                    |
 |             |                                                       |
 +-------------+-------------------------------------------------------+
-|             | .. toctree::                                          |
-|             |     :maxdepth: 1                                      |
 | exercise 3  |                                                       |
-|             |     td_manip.rst                                      |
+|             |     - :doc:`td_manip`                                 |
 |             |                                                       |
 +-------------+-------------------------------------------------------+
-|             | .. toctree::                                          |
-|             |     :maxdepth: 1                                      |
 | exercise 4  |                                                       |
-|             |     sum_data.rst                                      |
+|             |     - :doc:`sum_data`                                 |
 |             |                                                       |
 +-------------+-------------------------------------------------------+
-|             | .. toctree::                                          |
-|             |     :maxdepth: 1                                      |
 | exercise 5  |                                                       |
-|             |     ts_analysis.rst                                   |
+|             |     - :doc:`ts_analysis`                              |
 |             |                                                       |
 +-------------+-------------------------------------------------------+
-|             | .. toctree::                                          |
-|             |     :maxdepth: 1                                      |
 | exercise 6  |                                                       |
-|             |     multi_idx.rst                                     |
+|             |     - :doc:`multi_idx`                                |
 |             |                                                       |
 +-------------+-------------------------------------------------------+
